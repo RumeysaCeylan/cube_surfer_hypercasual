@@ -1,7 +1,34 @@
 # THE CUBE SURFER
 >UNITY VERSION: 2020.3
+# Phase 2
+> Banner Ads
+<img src="https://github.com/RumeysaCeylan/cube_surfer_hypercasual/assets/59581456/b685d8a8-da93-47ba-a3d7-8664adc62be5.jpg" width="300" height="500">
+<br><br>
 
->SCREEN RESOLUTION: 9*16 ANDROID
+> Rewarded Ads
+
+## If you got failed, you can continue from the same level by watching ads.
+<br><br>
+
+<img src="https://github.com/RumeysaCeylan/cube_surfer_hypercasual/assets/59581456/59cb0cb7-c649-45e0-9702-bf0170b2d36b.jpg" width="300" height="500">
+<img src="https://github.com/RumeysaCeylan/cube_surfer_hypercasual/assets/59581456/8af94334-326f-4af1-a45d-7c8e96cbc47a.jpg" width="300" height="500">
+<br><br>
+
+> Intersitial Ads
+<br><br>
+<img src="https://github.com/RumeysaCeylan/cube_surfer_hypercasual/assets/59581456/63f3152a-421a-4dd7-be2c-694e2aff8309.jpg" width="300" height="500">
+<img src="https://github.com/RumeysaCeylan/cube_surfer_hypercasual/assets/59581456/5fb927c4-e655-405e-9989-e519655665ce.jpg" width="300" height="500">
+
+>IAP KIT
+#### If you buy coins, you can buy the new levels that you never pass.
+<br>
+<img src="https://github.com/RumeysaCeylan/cube_surfer_hypercasual/assets/59581456/39b3f4ec-8201-4aa7-81e0-6e31b43e86b1.jpg" width="300" height="500">
+<img src="https://github.com/RumeysaCeylan/cube_surfer_hypercasual/assets/59581456/54d682c6-e976-4b68-a388-b80b4da1bbcc.jpg" width="300" height="500">
+
+
+
+>SCREEN RESOLUTION: 9*16 ANDROID!
+
 ##### CORE MECHANIC: 
 
 - You can move the character to the right and left of the road by moving your finger to the left and right anywhere on the screen.
